@@ -23,19 +23,7 @@ You can find here details about the product (or mini-app or module), from a high
 
 So far, contributions are exclusively made by the initial team, but we hope to open them to the community, in all areas and topics: requirements, technologies, development, experimentation, testing, etc.
 
-Please contact us! 
-
 Thank you!
-
-*João Pedro Sousa (up202106996)*
-
-*Rafael de Araujo Melo (up202211051)*
-
-*José Guedes (up202007651)*
-
-*Eduardo Machado (up202105337)*
-
-*Pedro Barros (up202108706)*
 
 ---
 
