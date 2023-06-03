@@ -1,0 +1,6 @@
+.idea/
+.DS_Store
+app/ios/
+app/linux/
+app/macos/
+app/windows/
